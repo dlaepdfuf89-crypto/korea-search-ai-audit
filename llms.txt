@@ -1,0 +1,12 @@
+# Korea Search & AI Audit Toolkit
+
+> A downloadable Windows toolkit for technical website audits covering Google, Naver, and AI-search-related signals.
+
+## Main page
+- https://dlaepdfuf89-crypto.github.io/korea-search-ai-audit/
+
+## Product facts
+- Windows desktop toolkit
+- One-time purchase; no monthly subscription
+- Audits public website URLs and generates prioritized HTML reports
+- Does not guarantee rankings, traffic, indexing, search exposure, or AI citations
