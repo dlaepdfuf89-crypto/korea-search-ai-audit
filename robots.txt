@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+User-agent: Yeti
+Allow: /
+
+Sitemap: https://dlaepdfuf89-crypto.github.io/korea-search-ai-audit/sitemap.xml
