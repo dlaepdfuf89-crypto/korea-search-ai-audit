@@ -1,12 +1,25 @@
 # Korea Search & AI Audit Toolkit
+> Google, Naver, and AI-search-related technical audit toolkit for public websites. Windows download, one-time purchase.
 
-> A downloadable Windows toolkit for technical website audits covering Google, Naver, and AI-search-related signals.
+## Product
+- Landing: https://dlaepdfuf89-crypto.github.io/korea-search-ai-audit/
+- Sample report: https://dlaepdfuf89-crypto.github.io/korea-search-ai-audit/sample-audit-report.html
+- Guides: https://dlaepdfuf89-crypto.github.io/korea-search-ai-audit/guides.html
+- Basic: audits one public website and generates prioritized technical findings.
+- PRO: compares the owner site with up to 3 competitors and tracks changes against a previous audit.
 
-## Main page
-- https://dlaepdfuf89-crypto.github.io/korea-search-ai-audit/
+## Coverage
+- Google search technical signals
+- Naver/Yeti crawler accessibility
+- robots.txt, sitemap.xml, canonical, noindex, metadata and structured-data signals
+- AEO/GEO/AI-search-related public-page signals
+- Machine-verifiable findings separated from items requiring human review
 
-## Product facts
-- Windows desktop toolkit
-- One-time purchase; no monthly subscription
-- Audits public website URLs and generates prioritized HTML reports
-- Does not guarantee rankings, traffic, indexing, search exposure, or AI citations
+## Limitations
+- Does not guarantee rankings, traffic, indexing, or AI citations.
+- Public URLs only; no administrator credentials are required.
+- Blocked or slow sites can produce partial audits.
+
+## Purchase
+- Basic: KRW 14,900 one-time — https://4085873036611.gumroad.com/l/korea-search-ai-audit-toolkit
+- PRO: KRW 39,900 one-time — https://4085873036611.gumroad.com/l/hpjlvq
