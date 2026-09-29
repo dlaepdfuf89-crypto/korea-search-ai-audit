@@ -15,6 +15,7 @@ Local product-feed preflight for ecommerce freelancers, small agencies, catalog 
 - OpenAI + Google client handoff bundles
 - Optional public product/store URL audit
 - No subscription or paid API key required
+- OpenAI product-feed onboarding is currently limited to approved partners; the toolkit does not grant access or activate ingestion
 
 **Launch price: $19 one-time**
 
