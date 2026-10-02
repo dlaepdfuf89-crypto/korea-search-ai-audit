@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="300" viewBox="0 0 300 300">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#07111e"/><stop offset="1" stop-color="#123a60"/></linearGradient></defs>
+<rect width="300" height="300" rx="64" fill="url(#g)"/>
+<rect x="25" y="25" width="250" height="250" rx="52" fill="none" stroke="#33a7ff" stroke-width="10"/>
+<text x="150" y="166" text-anchor="middle" fill="#f6f8fc" font-family="Arial,sans-serif" font-weight="900" font-size="112">PB</text>
+<text x="150" y="222" text-anchor="middle" fill="#9db0c8" font-family="Arial,sans-serif" font-weight="700" font-size="22" letter-spacing="3">STUDIO</text>
+</svg>
